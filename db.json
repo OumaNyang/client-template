@@ -1,0 +1,34 @@
+{
+    "members": [
+      {
+        "id": 1,
+        "name": "Carrots",
+        "amount": "1500",
+        "reminder": false
+      },
+      {
+        "id": 2,
+        "name": "Laundry",
+        "amount": "2500",
+        "reminder": true
+      },
+      {
+        "id": 3,
+        "name": "Ginger",
+        "amount": "1000",
+        "reminder": true
+      },
+      {
+        "id": 4,
+        "name": "Electricity",
+        "amount": "10000",
+        "reminder": true
+      },
+      {
+        "name": "Water",
+        "amount": "13000",
+        "reminder": true,
+        "id": 5
+      }
+    ]
+  }
